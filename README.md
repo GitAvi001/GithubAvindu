@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+//add a banner image
 <h1 align="center">Hi 👋, I'm Avindu</h1>
 <h3 align="center">Currently,I'm a Computer science undergraduate in UCSC, well enthusiast about Web developing and Cloud Computing</h3>
 
