@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Avindu</h1>
 <h3 align="center">Currently,I'm a Computer science undergraduate in UCSC, well enthusiast about Web developing and Cloud Computing</h3>
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*ygaHmPjQnVmEApdT.gif"> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitavi001&label=Profile%20views&color=0e75b6&style=flat" alt="gitavi001" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@avindu_sri" target="blank"><img src="https://img.shields.io/twitter/follow/@avindu_sri?logo=twitter&style=for-the-badge" alt="@avindu_sri" /></a> </p>
@@ -34,4 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitavi001&show_icons=true&locale=en" alt="gitavi001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitavi001&" alt="gitavi001" /></p>
+
+
 
