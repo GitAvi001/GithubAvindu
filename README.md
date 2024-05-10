@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Avindu</h1>
 <h3 align="center">Currently,I'm a Computer science undergraduate in UCSC, well enthusiast about Web developing and Cloud Computing</h3>
 
@@ -8,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@avindusridharmawardhana](https://medium.com/@avindusridharmawardhana)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java Programming, Web developing and cloud computing**
 
 - 📫 How to reach me **avinusridharmawardhana@gmail.com**
 
@@ -35,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitavi001&show_icons=true&locale=en" alt="gitavi001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitavi001&" alt="gitavi001" /></p>
+
